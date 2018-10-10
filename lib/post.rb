@@ -15,9 +15,5 @@ class Post
   def author 
     @author
   end 
-  
-  
-   
-  
-  
+
 end 
