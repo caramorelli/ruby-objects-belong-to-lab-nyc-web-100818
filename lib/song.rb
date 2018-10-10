@@ -12,7 +12,7 @@ class Song
     @title
   end 
   
-  def author 
-    @author
+  def artist 
+    @artist
   end 
 end 
