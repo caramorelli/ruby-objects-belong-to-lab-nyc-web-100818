@@ -10,10 +10,7 @@ class Post
     @title
   end 
   
-  belongs_to :author,
-  primary_key: :id,
-  foreign_key: :posts,
-  class_name: 'Author'
+  
    
   
   
