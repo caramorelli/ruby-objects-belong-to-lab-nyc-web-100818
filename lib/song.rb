@@ -4,7 +4,7 @@ class Song
   
   attr_accessor :author
   
-  def title=(post_title)
+  def title=(song_title)
     @title = post_title
   end 
   
