@@ -1,6 +1,6 @@
 
 
-class Post 
+class Song 
   
   attr_accessor :author
   
