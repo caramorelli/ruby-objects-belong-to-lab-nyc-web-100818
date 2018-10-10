@@ -2,10 +2,10 @@
 
 class Song 
   
-  attr_accessor :author
+  attr_accessor :artist
   
   def title=(song_title)
-    @title = post_title
+    @title = song_title
   end 
   
   def title
